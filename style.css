@@ -21,12 +21,21 @@ header{
 	text-align: center;
 }
 body{
-	
-	background-image: url("b3e60c1d45d2bb495c70c7856174cd81--graffiti-words-graffiti-names.jpg");
-	background-position: center;
-	background-repeat: no-repeat; 
-	background-size: 1500px 1000px;
+background-color: #A3A9AA
 }
 main{
 	
+}
+main h2{
+	text-align: center;
+	color: #631D76
+}
+body header h1{
+	color: #A9CEF4
+}
+.projectss{
+	margin: 1%;
+	width: 15%;
+	height:15%;
+
 }
